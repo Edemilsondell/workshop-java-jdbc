@@ -26,5 +26,5 @@ public class Constraints {
 				txt.setText(oldValue);
 			}
 		});
-	}
+	}	
 }
